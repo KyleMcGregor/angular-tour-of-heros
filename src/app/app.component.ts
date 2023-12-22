@@ -10,5 +10,13 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-tour-of-heros';
+  title = 'Tour of Heroes';
 }
+
+// @Component({
+//   selector: "chart-widget",
+//   standalone: true, 
+//   imports: [CommonModule], 
+//   templateUrl: '.chart.component.html', 
+//   styleUrl: './chart.component.html'
+// })
