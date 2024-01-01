@@ -1,0 +1,11 @@
+{
+  "name": "tree_testing",
+  "version": "1.0.0",
+  "description": "Just learnign ",
+  "main": "test_binary_tree.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "author": "",
+  "license": "ISC"
+}
